@@ -1,4 +1,5 @@
 #!/bin/bash
+#Obviously change the folder to where you want the images to go..
 cd /mnt/CCTV
 echo "*****************************************"
 echo "              CCTV Script"
