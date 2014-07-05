@@ -1,4 +1,4 @@
 over-brewed-coffee
 ==================
 
-We shall see, what we become.
+Random Shell scripts, nothing pro @ all.
